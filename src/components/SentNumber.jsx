@@ -49,7 +49,7 @@ const SentNumber = () => {
   return (
     <div className="">
       <div className="">
-        <h1 className="text-[18px] font-bold mb-4">
+        <h1 className="text-2xl text-center font-bold mb-10">
           Mahsulotimiz sizga qiziqmi? <br /> Unda raqamingizni qoldiring
         </h1>
         <form onSubmit={handleSubmit} className="flex flex-col items-center">
